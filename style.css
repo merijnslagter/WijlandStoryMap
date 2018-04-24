@@ -82,8 +82,8 @@ h3 {
 .image-container img {
     height: auto;
     width: auto;
-    max-height: 200%;
-    max-width: 200%;
+    max-height: 100%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 
