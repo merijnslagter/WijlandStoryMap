@@ -1,4 +1,4 @@
-var imageContainerMargin = 70;  // Margin + padding
+var imageContainerMargin = 150;  // Margin + padding
 
 // This watches for the scrollable container
 var scrollPosition = 0;
