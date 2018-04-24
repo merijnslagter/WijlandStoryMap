@@ -8,14 +8,14 @@ body {
 #map {
     position: absolute;
     left: 0;
-    width: 50vw;
+    width: 30vw;
     height: 100vh;
     z-index: 1;
 }
 
 #narration {
     position: absolute;
-    width: 50vw;
+    width: 70vw;
     min-width: 350px;
     right: 0px;
     height: 100vh;
@@ -81,9 +81,9 @@ h3 {
 
 .image-container img {
     height: 500px;
-    width: 500px;
+    width: 700px;
     max-height: 500px;
-    max-width: 500px;
+    max-width: 700px;
     margin-left: 20px;
     margin-right: 20px;
 
