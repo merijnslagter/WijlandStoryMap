@@ -1,11 +1,11 @@
-id,chapter,zoom,alt,image,description,lon,lat
-1,Internship at Wij.land,15,Logo Wij.land,img/Wij.land_logo.png,Wij.land collaborates with Commonland,5.6635243,51.9873608
-2,Commonland and 4 Returns landscapes,15,Commonland logo,img/4returnframework.png,Commonland aims to restore landscapes in 3 zones in 20 years which results in 4 returns,4.8852656,52.4046722
-3,AlVelAl in Spain,15,Landscape spain,img/spain.jpg,x,-2.8241846,37.8528901
-4,Living Lands in South-Africa,15,landscape south-africa,img/southafrica.jpg,x,23.9004273,-33.5974875
-5,Wide Open Agriculture in Australia,15,landscape australia,img/australia.jpg,x,116.854419,-33.02455
-6,Wij.land restrores peat meadows,15,Farm office,img/Kievitsheuvel.png,Goals: Develop spatial database and give insight on GIS opportunities for 4 Return landscapes,4.9357303,52.2789565
-7,Working at Natuurmonumenten,15,Fort Kijkuit,img/Fort_kijkuit.jpg,Obtaining system wishes from end users,5.0590057,52.2357981
-8,Understand Wij.land context,15,Subsidence,img/Subsidence.png,Dutch peat meadows are characterized by continuing cycle of drainage and subsidence,4.8857739,52.0854131
-9,Soil sampling,15,Measurements,img/Veldonderzoek.jpg,Soil sample outcomes for in the data system,4.8964129,52.2657794
-10,GIS opportunities,15,Mapatoffice,img/recommendations.jpg,GIS opportunities,4.9357303,52.2789565
+id,zoom,alt,image,lon,lat
+1,15,Logo Wij.land,img/Wij.land_logo.png,5.6635243,51.9873608
+2,15,Commonland logo,img/4returnframework.png,4.8852656,52.4046722
+3,15,Landscape spain,img/spain.jpg,-2.8241846,37.8528901
+4,15,landscape south-africa,img/southafrica.jpg,23.9004273,-33.5974875
+5,15,landscape australia,img/australia.jpg,116.854419,-33.02455
+6,15,Farm office,img/Kievitsheuvel.png,4.9357303,52.2789565
+7,15,Fort Kijkuit,img/Fort_kijkuit.jpg,5.0590057,52.2357981
+8,15,Subsidence,img/Subsidence.png,4.8857739,52.0854131
+9,15,Measurements,img/Veldonderzoek.jpg,4.8964129,52.2657794
+10,15,Mapatoffice,img/recommendations.jpg,4.9357303,52.2789565
