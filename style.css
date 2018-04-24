@@ -75,15 +75,15 @@ h3 {
     /* margin + padding = imageContainerMargin in script.js */
     /* Important for scrolling! */
     margin: 250px 0 0 0;
-    padding: 0px 0 0 0;
+    padding: 50px 0 0 0;
     text-align: center;
 }
 
 .image-container img {
     height: 500px;
-    width: 1000px;
+    width: 1100px;
     max-height: 500px;
-    max-width: 1000px;
+    max-width: 1100px;
     margin-left: 0px;
     margin-right: 0px;
 
