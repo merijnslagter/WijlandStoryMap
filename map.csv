@@ -1,22 +1,11 @@
-id,chapter,zoom,alt,image,source-credit,source-link,description,lon,lat,
-1,Commonland,15,Commonland logo,img/commonland.jpg,Source: Commonland,https://www.commonland.com,"Commonland was founded in 2013 with the ambition to kick-start a landscape restoration 
-economy based on the 4 returns framework. With the support of the COmON Foundation, 
-Commonland was able to develop landscape restoration projects in four countries, to 
-start educating the next generation of business leaders and to build a core team. Within 
-this short period Commonland has earned an international reputation as an innovative 
-change maker. In the coming five years Commonland will enter a new phase as a mature 
-organization that demonstrates that the 4 returns framework can be implemented at scale, 
-by inspiring and working together with others. Commonland aims to further realize its 
-project activities on the ground, increase its client-based partnerships, continue business 
-education, and work on outreach and acquisition of funding for all our activities. The 
-Commonland Foundation is the engine to make this all happen. We aim to further build 
-and strengthen the organisation, creating resilient teams, structures and processes to 
-optimize all of our partnerships.",52.4046722,4.8852656,
-2,AlVelAl in Spain,17,Spanish project landscape,img/spain.jpg,Source: Commonland,https://www.commonland.com,"Large opportunities lie in the restoration of the Western Australian Wheatbelt. Our goal is to transform this degraded and depopulated landscape by developing inspirational solutions that will create new jobs and business opportunities; secure local food supplies; and restore biodiversity, soil and water quality. Doing so, we believe we can convert the Wheatbelt into a world-class sustainable Foodbelt.
-
-Failure to attract investment to the Wheatbelt up to now has resulted in a stagnation of the innovation of farming and land care practices. The area is over-cleared, depopulating, and the remaining family farmers are under significant financial pressure. They are often trapped in a cycle of debt that forces them to apply conventional, chemically-dependent farming practices.
-
-Commonland’s business partner Wide Open Agriculture is a future-focused company that has identified innovative solutions to regenerate the Wheatbelt landscape and its economy. These solutions include: innovative ecologically based farming practices enabled by sustainable water management systems; measures to restore the soils and biodiversity; bringing migrants – the ‘new Australians’ – to the area as employees or business partners; and an approach to scale-up, through listing on the Australian Stock Exchange, which would make it possible to attract equity from retail and institutional investors. ",37.8528901,-2.8241846,","
-3,Living Land in South-Africa ,17,South African project landscape ,img/southafrica.jpg,Source: Commonland,https://www.commonland.com,"Images can be uploaded a local subfolder, or pulled from an external URL (such as this photo on a Flickr server). They are automatically resized to fit into the storymap.",-33.5974875,23.9004273,
-4,Wide Open Agriculture in Australia,14,Australian landscape,img/australia.jpg,Source: Commonland,https://www.commonland.com,"The Leafet 1.x code includes a 'fly to' feature that animates the distance traveled from one map point to the next. Users with some coding skills can easily modify the background map, or add map overlays, or extend the code by adding new features.",-33.02455,116.854419,","
-5,Wijland in The Netherlands,15,Dutch landscape,img/netherlands.jpg,Source: Commonland,https://www.commonland.com,"To learn how to create your own Leaflet storymap from this template, click on 'View code in GitHub' at the bottom of the map, or go to Leaflet Templates section of the Data Visualization For All book, at http://DataVizForAll.org.",52.2789565,4.9357303,
+id,chapter,zoom,alt,image,source-credit,source-link,description,lon,lat
+1,Internship at Wij.land,15,Logo Wij.land,img/Wij.land_logo.png,Source: Wij.land,https://www.commonland.com,Wij.land collaborates with Commonland,5.6635243,51.9873608
+2,Commonland and 4 Returns landscapes,15,Commonland logo,img/4returnframework.png,Source: Wij.land,https://www.commonland.com,Commonland aims to restore landscapes in 3 zones in 20 years which results in 4 returns,4.8852656,52.4046722
+3,AlVelAl in Spain,15,Landscape spain,img/spain.jpg,Source: Wij.land,https://www.commonland.com,x,-2.8241846,37.8528901
+4,Living Lands in South-Africa,15,landscape south-africa,img/southafrica.jpg,Source: Wij.land,https://www.commonland.com,x,23.9004273,-33.5974875
+5,Wide Open Agriculture in Australia,15,landscape australia,img/australia.jpg,Source: Wij.land,https://www.commonland.com,x,116.854419,-33.02455
+6,Wij.land restrores peat meadows,15,Farm office,img/Kievitsheuvel.png,Source: Wij.land,https://www.commonland.com,Goals: Develop spatial database and give insight on GIS opportunities for 4 Return landscapes,4.9357303,52.2789565
+7,Working at Natuurmonumenten,15,Fort Kijkuit,img/Fort_kijkuit.jpg,Source: Wij.land,https://www.commonland.com,Obtaining system wishes from end users,5.0590057,52.2357981
+8,Understand Wij.land context,15,Subsidence,img/Subsidence.png,Source: Wij.land,https://www.commonland.com,Dutch peat meadows are characterized by continuing cycle of drainage and subsidence,4.8857739,52.0854131
+9,Soil sampling,15,Measurements,img/Veldonderzoek.jpg,Source: Wij.land,https://www.commonland.com,Soil sample outcomes for in the data system,4.8964129,52.2657794
+10,GIS opportunities,15,Mapatoffice,img/recommendations.jpg,Source: Wij.land,https://www.commonland.com,GIS opportunities,4.9357303,52.2789565
