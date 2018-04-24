@@ -8,15 +8,15 @@ body {
 #map {
     position: absolute;
     left: 0;
-    width: 20vw;
+    width: 30vw;
     height: 100vh;
     z-index: 1;
 }
 
 #narration {
     position: absolute;
-    width: 80vw;
-    min-width: 400px;
+    width: 70vw;
+    min-width: 350px;
     right: 0px;
     height: 100vh;
     overflow: auto;
