@@ -81,11 +81,11 @@ h3 {
 
 .image-container img {
     height: 500px;
-    width: 800px;
+    width: 1000px;
     max-height: 500px;
-    max-width: 800px;
-    margin-left: 10px;
-    margin-right: 10px;
+    max-width: 1000px;
+    margin-left: 0px;
+    margin-right: 0px;
 
     /* Three lines that center vertically */
     position: relative;
