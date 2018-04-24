@@ -49,13 +49,6 @@ function initMap() {
             src: feature.properties['image']
           });
 
-          var source = $('<a>', {
-            text: feature.properties['source-credit'],
-            href: feature.properties['source-link'],
-            target: "_blank",
-            class: 'source'
-          });
-
           var description = $('<p></p>', {
             text: feature.properties['description'],
             class: 'description'
