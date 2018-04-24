@@ -75,7 +75,7 @@ h3 {
     /* margin + padding = imageContainerMargin in script.js */
     /* Important for scrolling! */
     margin: 250px 0 0 0;
-    padding: 50px 0 0 0;
+    padding: 00px 0 0 0;
     text-align: center;
 }
 
