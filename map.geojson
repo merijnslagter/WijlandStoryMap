@@ -1,1 +1,205 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"chapter":"Hartford Public High School 1847","zoom":15,"alt":"Hartford HS historic image from 1847","image":"img/1847-HPHS-Catalog1904p164.jpg","source-credit":"Source: HPHS Quadrennial Catalogue 1904","source-link":"https://www.flickr.com/photos/56513965@N06/21047067205","description":"This scroll-driven storymap is built on an open-source Leaflet template. The design is ideal for telling a story that narrates different locations on a map. Or users can click any marker point to go directly to the chapter narrative."},"geometry":{"type":"Point","coordinates":[-72.6782,41.7676]}},{"type":"Feature","properties":{"id":2,"chapter":"Hartford Public High School 1905","zoom":17,"alt":"Hartford HS historic image from 1905","image":"img/1905-HPHS-postcard.jpg","source-credit":"Source: Flickr","source-link":"https://flic.kr/p/FNxWf8","description":"See directions to create your own storymap. Insert your text, map points, zoom levels, and image links in an easy-to-edit spreadsheet template, named data.csv. Then drag this file into the http://geojson.io tool to convert it into a map file, named data.geojson. "},"geometry":{"type":"Point","coordinates":[-72.6848,41.7677]}},{"type":"Feature","properties":{"id":3,"chapter":"Hartford Public High School 2011","zoom":17,"alt":"Hartford HS image from 2011","image":"https://farm6.staticflickr.com/5693/20860554099_1a9466a11e_c.jpg","source-credit":"Source: Carlos Velazquez/Flickr","source-link":"https://flic.kr/p/xMnMXR","description":"Images can be uploaded a local subfolder, or pulled from an external URL (such as this photo on a Flickr server). They are automatically resized to fit into the storymap."},"geometry":{"type":"Point","coordinates":[-72.701,41.7654]}},{"type":"Feature","properties":{"id":4,"chapter":"Bradley Airport, Windsor Locks","zoom":14,"alt":"Bradley airport at Windsor Locks","image":"img/BradleyAirport.jpg","source-credit":"Source: public domain/Wikimedia","source-link":"https://commons.wikimedia.org/wiki/File:Airport_2.jpg#/media/File:Airport_2.jpg","description":"The Leafet 1.x code includes a 'fly to' feature that animates the distance traveled from one map point to the next. Users with some coding skills can easily modify the background map, or add map overlays, or extend the code by adding new features."},"geometry":{"type":"Point","coordinates":[-72.687984,41.9387]}},{"type":"Feature","properties":{"id":5,"chapter":"Trinity College, Hartford","zoom":15,"alt":"Trinity College in Hartford","image":"img/TrinityCollege.jpg","source-credit":"Source: Trinity College/edX","source-link":"https://www.edx.org/sites/default/files/trinity1.jpg","description":"To learn how to create your own Leaflet storymap from this template, click on 'View code in GitHub' at the bottom of the map, or go to Leaflet Templates section of the Data Visualization For All book, at http://DataVizForAll.org."},"geometry":{"type":"Point","coordinates":[-72.69,41.747]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "chapter": "Internship at Wij.land",
+        "zoom": 15,
+        "alt": "Logo Wij.land",
+        "image": "img/Wij.land_logo.png",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Wij.land collaborates with Commonland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6635243,
+          51.9873608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "chapter": "Commonland and 4 Returns landscapes",
+        "zoom": 15,
+        "alt": "Commonland logo",
+        "image": "img/4returnframework.png",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Commonland aims to restore landscapes in 3 zones in 20 years which results in 4 returns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8852656,
+          52.4046722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "chapter": "AlVelAl in Spain",
+        "zoom": 15,
+        "alt": "Landscape spain",
+        "image": "img/spain.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8241846,
+          37.8528901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "chapter": "Living Lands in South-Africa",
+        "zoom": 15,
+        "alt": "landscape south-africa",
+        "image": "img/southafrica.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9004273,
+          -33.5974875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "chapter": "Wide Open Agriculture in Australia",
+        "zoom": 15,
+        "alt": "landscape australia",
+        "image": "img/australia.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.854419,
+          -33.02455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "chapter": "Wij.land restrores peat meadows",
+        "zoom": 15,
+        "alt": "Farm office",
+        "image": "img/Kievitsheuvel.png",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Goals: Develop spatial database and give insight on GIS opportunities for 4 Return landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9357303,
+          52.2789565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "chapter": "Working at Natuurmonumenten",
+        "zoom": 15,
+        "alt": "Fort Kijkuit",
+        "image": "img/Fort_kijkuit.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Obtaining system wishes from end users"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0590057,
+          52.2357981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "chapter": "Understand Wij.land context",
+        "zoom": 15,
+        "alt": "Subsidence",
+        "image": "img/Subsidence.png",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Dutch peat meadows are characterized by continuing cycle of drainage and subsidence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8857739,
+          52.0854131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "chapter": "Soil sampling",
+        "zoom": 15,
+        "alt": "Measurements",
+        "image": "img/Veldonderzoek.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "Soil sample outcomes for in the data system"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8964129,
+          52.2657794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "chapter": "GIS opportunities",
+        "zoom": 15,
+        "alt": "Mapatoffice",
+        "image": "img/recommendations.jpg",
+        "source-credit": "Source: Wij.land",
+        "source-link": "https://www.commonland.com",
+        "description": "GIS opportunities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9357303,
+          52.2789565
+        ]
+      }
+    }
+  ]
+}
