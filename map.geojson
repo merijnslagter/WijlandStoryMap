@@ -5,11 +5,9 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "chapter": "Internship at Wij.land",
         "zoom": 15,
         "alt": "Logo Wij.land",
-        "image": "img/Wij.land_logo.png",
-        "description": "Wij.land collaborates with Commonland"
+        "image": "img/Wij.land_logo.png"
       },
       "geometry": {
         "type": "Point",
@@ -23,11 +21,9 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "chapter": "Commonland and 4 Returns landscapes",
         "zoom": 15,
         "alt": "Commonland logo",
-        "image": "img/4returnframework.png",
-        "description": "Commonland aims to restore landscapes in 3 zones in 20 years which results in 4 returns"
+        "image": "img/4returnframework.png"
       },
       "geometry": {
         "type": "Point",
@@ -41,11 +37,9 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "chapter": "AlVelAl in Spain",
         "zoom": 15,
         "alt": "Landscape spain",
-        "image": "img/spain.jpg",
-        "description": "x"
+        "image": "img/spain.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -59,11 +53,9 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "chapter": "Living Lands in South-Africa",
         "zoom": 15,
         "alt": "landscape south-africa",
-        "image": "img/southafrica.jpg",
-        "description": "x"
+        "image": "img/southafrica.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -77,11 +69,9 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "chapter": "Wide Open Agriculture in Australia",
         "zoom": 15,
         "alt": "landscape australia",
-        "image": "img/australia.jpg",
-        "description": "x"
+        "image": "img/australia.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -95,11 +85,9 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "chapter": "Wij.land restrores peat meadows",
         "zoom": 15,
         "alt": "Farm office",
-        "image": "img/Kievitsheuvel.png",
-        "description": "Goals: Develop spatial database and give insight on GIS opportunities for 4 Return landscapes"
+        "image": "img/Kievitsheuvel.png"
       },
       "geometry": {
         "type": "Point",
@@ -113,11 +101,9 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "chapter": "Working at Natuurmonumenten",
         "zoom": 15,
         "alt": "Fort Kijkuit",
-        "image": "img/Fort_kijkuit.jpg",
-        "description": "Obtaining system wishes from end users"
+        "image": "img/Fort_kijkuit.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -131,11 +117,9 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "chapter": "Understand Wij.land context",
         "zoom": 15,
         "alt": "Subsidence",
-        "image": "img/Subsidence.png",
-        "description": "Dutch peat meadows are characterized by continuing cycle of drainage and subsidence"
+        "image": "img/Subsidence.png"
       },
       "geometry": {
         "type": "Point",
@@ -149,11 +133,9 @@
       "type": "Feature",
       "properties": {
         "id": 9,
-        "chapter": "Soil sampling",
         "zoom": 15,
         "alt": "Measurements",
-        "image": "img/Veldonderzoek.jpg",
-        "description": "Soil sample outcomes for in the data system"
+        "image": "img/Veldonderzoek.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -167,11 +149,9 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "chapter": "GIS opportunities",
         "zoom": 15,
         "alt": "Mapatoffice",
-        "image": "img/recommendations.jpg",
-        "description": "GIS opportunities"
+        "image": "img/recommendations.jpg"
       },
       "geometry": {
         "type": "Point",
