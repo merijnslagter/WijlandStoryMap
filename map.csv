@@ -1,11 +1,11 @@
 id,zoom,alt,image,lon,lat
 1,15,Logo Wij.land,img/1.png,5.6635243,51.9873608
-2,15,Commonland logo,img/4returnframework.png,4.8852656,52.4046722
-3,15,Landscape spain,img/spain.jpg,-2.8241846,37.8528901
-4,15,landscape south-africa,img/southafrica.jpg,23.9004273,-33.5974875
-5,15,landscape australia,img/australia.jpg,116.854419,-33.02455
-6,15,Farm office,img/Kievitsheuvel.png,4.9357303,52.2789565
-7,15,Fort Kijkuit,img/Fort_kijkuit.jpg,5.0590057,52.2357981
-8,15,Subsidence,img/Subsidence.png,4.8857739,52.0854131
-9,15,Measurements,img/Veldonderzoek.jpg,4.8964129,52.2657794
-10,15,Mapatoffice,img/recommendations.jpg,4.9357303,52.2789565
+2,15,Commonland logo,Img/2.png,4.8852656,52.4046722
+3,15,Landscape spain,Img/3.png,-2.8241846,37.8528901
+4,15,landscape south-africa,Img/4.png,23.9004273,-33.5974875
+5,15,landscape australia,Img/5.png,116.854419,-33.02455
+6,15,Farm office,Img/6.png,4.9357303,52.2789565
+7,15,Fort Kijkuit,Img/7.png,5.0590057,52.2357981
+8,15,Subsidence,Img/8.png,4.8857739,52.0854131
+9,15,Measurements,Img/9.png,4.8964129,52.2657794
+10,15,Opportunities,Img/10.png,4.8108426,52.5294211
