@@ -1,4 +1,4 @@
-var imageContainerMargin = 350;  // Margin + padding
+var imageContainerMargin = 150;  // Margin + padding
 
 // This watches for the scrollable container
 var scrollPosition = 0;
@@ -76,7 +76,7 @@ function initMap() {
           $('#contents').append(container);
 
           var i;
-          var areaTop = -300;
+          var areaTop = -100;
           var areaBottom = 0;
 
           // Calculating total height of blocks above active
