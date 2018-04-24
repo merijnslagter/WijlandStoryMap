@@ -8,14 +8,14 @@ body {
 #map {
     position: absolute;
     left: 0;
-    width: 30vw;
+    width: 50vw;
     height: 100vh;
     z-index: 1;
 }
 
 #narration {
     position: absolute;
-    width: 70vw;
+    width: 50vw;
     min-width: 350px;
     right: 0px;
     height: 100vh;
