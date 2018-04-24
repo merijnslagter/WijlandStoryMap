@@ -23,7 +23,7 @@
         "id": 2,
         "zoom": 15,
         "alt": "Commonland logo",
-        "image": "img/4returnframework.png"
+        "image": "Img/2.png"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "id": 3,
         "zoom": 15,
         "alt": "Landscape spain",
-        "image": "img/spain.jpg"
+        "image": "Img/3.png"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "id": 4,
         "zoom": 15,
         "alt": "landscape south-africa",
-        "image": "img/southafrica.jpg"
+        "image": "Img/4.png"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "id": 5,
         "zoom": 15,
         "alt": "landscape australia",
-        "image": "img/australia.jpg"
+        "image": "Img/5.png"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "id": 6,
         "zoom": 15,
         "alt": "Farm office",
-        "image": "img/Kievitsheuvel.png"
+        "image": "Img/6.png"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
         "id": 7,
         "zoom": 15,
         "alt": "Fort Kijkuit",
-        "image": "img/Fort_kijkuit.jpg"
+        "image": "Img/7.png"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "id": 8,
         "zoom": 15,
         "alt": "Subsidence",
-        "image": "img/Subsidence.png"
+        "image": "Img/8.png"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "id": 9,
         "zoom": 15,
         "alt": "Measurements",
-        "image": "img/Veldonderzoek.jpg"
+        "image": "Img/9.png"
       },
       "geometry": {
         "type": "Point",
@@ -150,14 +150,14 @@
       "properties": {
         "id": 10,
         "zoom": 15,
-        "alt": "Mapatoffice",
-        "image": "img/recommendations.jpg"
+        "alt": "Opportunities",
+        "image": "Img/10.png"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9357303,
-          52.2789565
+          4.8108426,
+          52.5294211
         ]
       }
     }
