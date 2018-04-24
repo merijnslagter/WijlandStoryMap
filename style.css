@@ -95,9 +95,9 @@ h3 {
 
 .img-holder {
     margin: 0px;
-    height: 300px;
-    max-height: 300px;
-    width: 200%;
+    height: 200px;
+    max-height: 200px;
+    width: 100%;
 }
 
 .title-text {
