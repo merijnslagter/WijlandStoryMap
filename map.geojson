@@ -3,163 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "id": 1,
-        "zoom": 15,
-        "alt": "Logo Wij.land",
-        "image": "img/1.png"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
-        "coordinates": 
-        [5.6635243,51.9873608],
-        [5.5635243,51.9873608],
-        [5.5635243,51.8873608],
-        [5.6635243,51.8873608]
-        
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 2,
-        "zoom": 15,
-        "alt": "Commonland logo",
-        "image": "img/2.png"
-      },
-      "geometry": {
-        "type": "Point",
         "coordinates": [
-          4.8852656,
-          52.4046722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3,
-        "zoom": 15,
-        "alt": "Landscape spain",
-        "image": "img/3.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8241846,
-          37.8528901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 4,
-        "zoom": 15,
-        "alt": "landscape south-africa",
-        "image": "img/4.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.9004273,
-          -33.5974875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 5,
-        "zoom": 15,
-        "alt": "landscape australia",
-        "image": "img/5.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.854419,
-          -33.02455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 6,
-        "zoom": 15,
-        "alt": "Farm office",
-        "image": "img/6.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9357303,
-          52.2789565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 7,
-        "zoom": 15,
-        "alt": "Fort Kijkuit",
-        "image": "img/7.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.0590057,
-          52.2357981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 8,
-        "zoom": 15,
-        "alt": "Subsidence",
-        "image": "img/8.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8857739,
-          52.0854131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 9,
-        "zoom": 15,
-        "alt": "Measurements",
-        "image": "img/9.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8964129,
-          52.2657794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 10,
-        "zoom": 15,
-        "alt": "Opportunities",
-        "image": "img/10.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8108426,
-          52.5294211
+          [
+            [
+              -73.212890625,
+              51.12421275782688
+            ],
+            [
+              -78.662109375,
+              47.100044694025215
+            ],
+            [
+              -73.037109375,
+              45.27488643704891
+            ],
+            [
+              -73.212890625,
+              51.12421275782688
+            ]
+          ]
         ]
       }
     }
